@@ -18,8 +18,8 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "https://github.com/sophialaw98/SophiaWang/" # the subpath of your site, e.g. /blog/
-url: "https://sophialaw98.github.io/SophiaWang" # the base hostname & protocol for your site
+baseurl: "https://github.com/sophialaw98/SophiaWang" # the subpath of your site, e.g. /blog/
+url: "https://sophialaw98.github.io/SophiaWang/" # the base hostname & protocol for your site
 cover: "https://raw.githubusercontent.com/sophialaw98/SophiaWang/master/assets/header_image.jpg"
 logo: "https://raw.githubusercontent.com/sophialaw98/SophiaWang/master/assets/logo.png"
 
